@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plugin Display"
+  short_description: "Fix Codex plugin display issues on Windows"
+  default_prompt: "Codex插件面板显示不全，请诊断并修复"
